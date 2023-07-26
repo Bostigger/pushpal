@@ -10,7 +10,7 @@ PushPal is a lightweight CLI tool and Go package that scans for uncommitted and 
 ## Installation
 Downloading the Binary:
 
-   [ Direct users to download the suitable binary for their operating system.](https://github.com/Bostigger/pushpal/releases/tag/v0.1.0)
+   [Download the suitable binary for your operating system.](https://github.com/Bostigger/pushpal/releases/tag/v0.1.0)
 
 ## Setup:
 Linux/macOS:
