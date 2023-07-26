@@ -1,6 +1,11 @@
 # PushPal
 
 PushPal is a lightweight CLI tool and Go package that scans for uncommitted and unpushed changes in a local Git repository. It also helps streamline your Git workflow by offering to automatically add frequently ignorable paths (like .idea/ and .vscode/) to your .gitignore file.
+
+## Demo
+
+https://github.com/Bostigger/pushpal/assets/52701136/32b1d746-a996-4430-80a1-05c50503da03
+
 ## Features
 
 - Detect uncommitted changes in the active directory
