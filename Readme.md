@@ -53,6 +53,8 @@ Contributing
 
 We value your contributions! Feel free to open an issue or submit a pull request on our GitHub repository.
 License
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## License
+Copyright © [Peter Blay](https://github.com/bostigger)
+
+`pushpal` is open-sourced software licensed under the [MIT](LICENSE) license.
